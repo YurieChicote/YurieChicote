@@ -1,14 +1,18 @@
-## Hi there 👋  I'm Yurie Chicote
+## Hi there 👋 # My Profile
+
+## Name
+Yurie Chicote
 
 ## Education
-- **New Era University**
-  - Bachelor of Science in Information Technology (BSIT)
+**Bachelor of Science in Information Technology (BSIT)**  
+*New Era University*
 
 ## Certifications
-*TBD*
+<!-- Add your certifications here later -->
 
 ## Skillsets
-*TBD*
+<!-- Add your skills here later -->
+
 
 <!--
 **YurieChicote/YurieChicote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
