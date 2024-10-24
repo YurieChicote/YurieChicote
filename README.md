@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Yurie Chicote
+## Hi there 👋 # I'm Yurie Chicote
 
 ## Education
 - **New Era University**
