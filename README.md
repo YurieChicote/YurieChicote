@@ -11,7 +11,7 @@
   - [eCertificate](https://github.com/user-attachments/files/17900833/eCertificate.pdf)
 
 ## Skillsets
-- Programming (from my course)
+- Programming (Java)
 - Database (IBM DB2 Cloud)
 - Lucidchart
 - IntelliJ IDEA
