@@ -6,6 +6,9 @@
 
 ## Certifications
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/70d7a77bf7434cddb3a7ebbc3188449b)
+- **Oracle Cloud Infrastructure 2024 Foundations Associate**
+  - ![Certification Badge](https://github.com/user-attachments/assets/3bcf4899-0176-461d-b135-5e06aae10018)
+  - [eCertificate](https://github.com/user-attachments/files/17900833/eCertificate.pdf)
 
 ## Skillsets
 - Programming (from my course)
