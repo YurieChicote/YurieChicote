@@ -6,12 +6,8 @@
 
 ## Certifications
 - [SQL and Relational Databases 101 Certificate](https://courses.cognitiveclass.ai/certificates/70d7a77bf7434cddb3a7ebbc3188449b)
-- [eCertificate](https://github.com/user-attachments/files/17900833/eCertificate.pdf)
-- **Oracle Cloud Infrastructure 2024 Foundations Associate**
-
-   ![Certification Badge](https://github.com/user-attachments/assets/3bcf4899-0176-461d-b135-5e06aae10018)
-- **Oracle Cloud Infrastructure 2024 AI Foundations Associate**
-    ![OCI24AICFA (1)](https://github.com/user-attachments/assets/ad3fbc3a-00d0-43da-a19b-ec340269949d)
+- [Oracle Cloud Infrastructure 2024 Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=014DF7CE6D4CBC8A99668C911CEED20DB517E0CFEEF5E59975B2F268131D9BEF)
+- [Become an Oracle Cloud Data Management Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F0BC8D96106CB9C8698C58352D26C03B3AD0E472749409C94C2B6E4625D51148)
 
 ## Skillsets
 - Programming (Java)
